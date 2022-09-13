@@ -2,9 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main-Entry point
- * Decription:a programme that prints random number for the variable n,
+/**
+ * main-Entry point
+ * Decription: a programme that prints random number for the variable n,
  * anytime its executetd
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
