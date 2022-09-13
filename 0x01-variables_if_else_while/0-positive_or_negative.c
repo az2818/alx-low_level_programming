@@ -2,13 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/** main-Entry point
+/* main-Entry point
  * Decription:a programme that prints random number for the variable n,
  * anytime its executetd
  */
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 		/*
