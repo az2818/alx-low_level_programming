@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** main- prints alphabets from a-z
+/** 
+ * main- prints alphabets from a-z
  * excluding e and q
  * Return: Always 0 (success)
  */
