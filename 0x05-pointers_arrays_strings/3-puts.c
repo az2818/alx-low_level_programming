@@ -1,7 +1,8 @@
 #include "main.h"
 #include "2-strlen.c"
 
-/**_puts-  prints string
+/**
+ * _puts-  prints string
  * @str: string
  * Return: void
  */
